@@ -18,6 +18,8 @@ Shasqi’s SQ3370 is a novel investigational drug product that uses bioorthogona
 
 This new therapeutic modality can precisely control the duration of exposure and magnitude of activated drugs at a specific area in the body. This allows the exploration of therapeutic benefits of a drug that had been previously limited by existing routes of administration in the clinic (oral, intravenous, direct injection or controlled release).
 
+<br>
+
 "SQ3370 is powered by an innovative chemistry based approach to precisely deliver high doses of a cancer drug locally and potentially activate the immune system against human tumors, independent of biological markers,” said Carolyn R. Bertozzi, Ph.D., professor of chemistry and HHMI investigator at Stanford University.
 
 SQ3370 consists of two components – SQL70, a hyaluronic acid-based biomaterial and SQP33, a prodrug of Doxorubicin, a commonly used chemotherapy. During treatment, SQL70 biomaterial is first injected at the target tumor site. SQP33 prodrug is then given systemically through daily IV infusions for 5 days. SQP33 prodrug remains in attenuated form in the body until it reaches the target tumor site and is captured by SQL70. Once captured, SQP33 is converted and released as active Doxorubicin at the target tumor.
@@ -35,6 +37,8 @@ Additionally, in a separate study in rats, SQ3370 reduced adverse exposure to he
 “Because of its highly modular nature, we can use our platform on numerous cancer drugs with doses traditionally limited due to toxicity and uncover new pharmacological benefits,” said José M. Mejía Oneto, M.D., Ph.D., Founder and CEO of Shasqi. “To evaluate the translation of our findings to humans, we are initiating our first clinical trial of SQ3370 as a monotherapy in advanced solid tumors, and expect to dose our first patient shortly.”
 
 The entire AACR poster presentation plus an audio description of the data by Dr. Yee, can be found [here](https://vcusa.sparx-ip.net/aacr2020ep/?c=a&view=1&searchfor=sq3370&item=2020AB_6245). In addition, the abstract for the poster can be found [here](https://www.abstractsonline.com/pp8/#!/9045/presentation/2526).
+
+<br>
 
 **About Shasqi, Inc.**
 
