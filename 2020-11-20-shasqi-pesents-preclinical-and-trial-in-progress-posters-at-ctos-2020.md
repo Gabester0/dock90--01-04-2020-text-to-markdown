@@ -8,7 +8,7 @@ category: "press"
 image: "/assets/images/image-asset.jpeg"
 ---
 
-- Shasqi presents two posters on their lead candidate SQ3370 at CTOS 2020 -
+_- Shasqi presents two posters on their lead candidate SQ3370 at CTOS 2020 -_
 
 Shasqi presents two posters at The Connective Tissue Oncology Society 25th Anniversary Annual Meeting showcasing their lead candidate SQ3370.
 
@@ -20,7 +20,7 @@ The preclinical poster presentation can be found [here](/assets/pdf/2020-10-22-C
 
 The trial-in-progress poster presentation can be found [here](/assets/pdf/2020-10-22-CTOS-TIP-Poster-Final.pdf) and the abstract can be found [here](/assets/pdf/2020-11-23-CTOS-TIP-Abstract.pdf).
 
-CAPAC™ and SQ3370
+**CAPAC™ and SQ3370**
 
 SQ3370 utilizes Shasqi’s proprietary Click Activated Protodrugs Against Cancer (CAPAC™) platform, a click chemistry-based approach that activates cancer drugs at a specific tumor with minimal systemic toxicity. The platform utilizes the biocompatible chemical reaction between an attenuated trans-cyclooctene-modified protodrug and a tetrazine-modified biopolymer. The biopolymer is injected into the target tumor lesion, where it precisely captures and activates an infused protodrug. Unlike targeted therapies, the CAPAC™ platform is agnostic to tumor characteristics that can vary from patient to patient, such as biomarker expression and enzymatic activity. CAPAC™ is highly modular and can be applied to a wide variety of cancer therapeutics.
 
