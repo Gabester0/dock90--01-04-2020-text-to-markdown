@@ -14,4 +14,4 @@ Katie Jennings at Forbes recently wrote an amazing article highlighting Shasqi a
 
 > _Those toxic side effects also restrict the dose that people can safely receive, limiting some drug’s effectiveness against the cancer its targeting. San Francisco-based biotech startup Shasqi aims to solve both of these problems at once with a new platform that could ensure more direct targeting of tumors._
 
-We are very honored and excited to share this news with Katie, you can find the [full article here](https://www.forbes.com/sites/katiejennings/2020/10/14/side-effects-from-chemo-can-be-devastating-this-startup-aims-to-change-that/#59e076774127)
+We are very honored and excited to share this news with Katie, you can find the **[full article here](https://www.forbes.com/sites/katiejennings/2020/10/14/side-effects-from-chemo-can-be-devastating-this-startup-aims-to-change-that/#59e076774127)**
