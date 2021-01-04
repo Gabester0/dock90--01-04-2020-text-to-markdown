@@ -14,7 +14,7 @@ image:
 
 <br>
 
-San Francisco, CA (October 31, 2019): Shasqi, Inc., a privately held company focused on improving the localized delivery of cancer drugs to tumors, today announced the completion of a $10 million Series A financing. The proceeds of the financing are being used to complete GMP manufacturing for the company’s lead drug candidate and to support a Phase 1 human trial, expected to commence in Q2 2020.
+**San Francisco, CA (October 31, 2019):** Shasqi, Inc., a privately held company focused on improving the localized delivery of cancer drugs to tumors, today announced the completion of a $10 million Series A financing. The proceeds of the financing are being used to complete GMP manufacturing for the company’s lead drug candidate and to support a Phase 1 human trial, expected to commence in Q2 2020.
 
 <br>
 
