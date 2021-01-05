@@ -8,7 +8,7 @@ category:
 image:
 ---
 
-- Shasqi presents two posters on their lead candidate SQ3370 at SITC 2020 -
+_- Shasqi presents two posters on their lead candidate SQ3370 at SITC 2020 -_
 
 Shasqi presents two posters on their lead candidate, SQ3370, at The Society for Immunotherapy of Cancer’s (SITC) 35th Anniversary Annual Meeting.
 
@@ -20,7 +20,7 @@ The trial-in-progress poster presentation can be found [here](https://www.shasqi
 
 The preclinical poster presentation can be found [here](https://www.shasqi.com/s/2020-10-26-SITC-Preclinical-Poster-Final.pdf), and the abstract can be found [here](https://jitc.bmj.com/content/8/Suppl_3/A89).
 
-CAPAC™ and SQ3370
+**CAPAC™ and SQ3370**
 
 SQ3370 utilizes Shasqi’s proprietary Click Activated Protodrugs Against Cancer (CAPAC™) platform, a click chemistry-based approach that activates cancer drugs at a specific tumor with minimal systemic toxicity. The platform utilizes the biocompatible chemical reaction between an attenuated trans-cyclooctene-modified protodrug and a tetrazine-modified biopolymer. The biopolymer is injected into the target tumor lesion, where it precisely captures and activates an infused protodrug. Unlike targeted therapies, the CAPAC™ platform is agnostic to tumor characteristics that can vary from patient to patient, such as biomarker expression and enzymatic activity. CAPAC™ is highly modular and can be applied to a wide variety of cancer therapeutics.
 

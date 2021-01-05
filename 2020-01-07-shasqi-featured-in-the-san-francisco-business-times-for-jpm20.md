@@ -8,7 +8,9 @@ category:
 image:
 ---
 
-We are proud to share an article by Ron Leuty, Staff Reporter for the San Francisco Business Times, about Shasqi and our attendance at the JPMorgan 2020 conference
+We are proud to share an article by [Ron Leuty](https://www.bizjournals.com/sanfrancisco/bio/3611/Ron+Leuty), Staff Reporter for the San Francisco Business Times, about Shasqi and our attendance at the JPMorgan 2020 conference
+
+<br>
 
 ## How a small biotech worked its way out of storage space during the industry's biggest conference
 
@@ -39,5 +41,7 @@ In a way, Shasqi hopes to unwrap what larger biopharmaceutical companies want as
 But how do small companies cut through the literal and scientific noise of JPM Week to get heard by potential investors and partners? Leverage your network, Mejîa Oneto said.
 
 "Getting through the door to meet with somebody is important, but you've got to under-promise and over-deliver," he said. "This is a long game. Bringing drugs to humans is not usually a one- or two-year flip."
+
+<br>
 
 The full article can be found [here](https://www.bizjournals.com/sanfrancisco/news/2020/01/07/how-a-small-biotech-worked-its-way-out-of-storage.html?b=1578438473%5E21600082)

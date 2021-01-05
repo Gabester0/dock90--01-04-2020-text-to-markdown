@@ -30,20 +30,25 @@ The CAPAC Platform is a new therapeutic modality based on click chemistry, which
 SQ3370-001 (NCT04106492) is a multicenter, first-in-human, dose-escalation, Phase 1 clinical trial evaluating the safety and tolerability, pharmacokinetics, immune effects, and preliminary anti-tumor efficacy of SQ3370 in patients with locally advanced or metastatic solid tumor malignancies ineligible for standard-of-care therapy. The study is being conducted in the United States and Australia at multiple cancer centers, including MD Anderson Cancer Center and Stanford University. The study is expected to be completed in 2021. More information about the trial is available at: https://clinicaltrials.gov/ct2/show/NCT04106492.
 
 **About SQ3370**
+<br>
 SQ3370 is designed to enhance anti-tumor efficacy and decrease systemic toxicity of doxorubicin by restricting activation of the protodrug to a pre-injected malignant tumor and its peripheral tumor environment. Pre-clinical data show that SQ3370 leads to tumor reduction and reduced systemic toxicity. SQ3370 consists of two components, both of which are proprietary new molecular entities: a protodrug of doxorubicin (SQP33) with attenuated cytotoxic activity and a biopolymer (SQL70) made of sodium hyaluronate which activates the protodrug at the tumor site.
 
 **About Shasqi’s CAPACtm Platform**
+<br>
 Shasqi’s Click Activated Protodrugs Against Cancer (CAPACtm) Platform is a new therapeutic modality based on click chemistry, which utilizes the biocompatible chemical reaction between an attenuated trans-cyclooctene-modified protodrug and a tetrazine-modified biopolymer. The biopolymer is injected into the target tumor lesion, where it precisely captures and activates an infused protodrug. The CAPAC Platform and it is designed to increase anti-tumor efficacy while minimizing systemic toxicity. The platform is agnostic to tumor characteristics that can vary from patient to patient, such as biomarker expression and enzymatic activity. Shasqi’s CAPAC Platform is highly modular and can be applied to a wide variety of cancer therapeutics.
 
 The technology originally conceived and developed at the University of California, Davis and at the Royzen Lab at the University at Albany, SUNY, served as the foundation for the CAPAC Platform.
 
 **About Y Combinator**
+<br>
 Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in over 2,000 companies including Airbnb, Dropbox, Stripe, Reddit, Doordash, and Brex. The combined valuation of YC companies is over $155B. YC has programs and resources that support founders throughout the life of their company. Startup School teaches the basics of starting a company. The YC batch program helps founders as they build their product, talk to their customers, and raise funding. Work at a Startup makes it easy for founders to find their first engineers. YC Series A helps founders launch their A round. YC Growth Program provides founders with resources to scale their companies and hire an executive team, and YC Continuity invests in their later stage rounds.
 
 **About Shasqi**
+<br>
 Shasqi is a privately held, clinical stage biotechnology company whose mission is to enable patients to beat cancer without poisoning their bodies. Shasqi leverages its proprietary Click chemistry Activated Protodrugs Against Cancer (CAPACtm) Platform to develop precision activated oncology therapeutics designed to improve efficacy while decreasing systemic toxicity. Shasqi’s CAPAC Platform is highly modular and can be applied to a broad range of drugs that are otherwise limited by toxicity, enabling the exploration of therapeutic biology in ways that were not previously possible. For more information, please visit: http://www.shasqi.com
 
 **Media Contacts:**
+<br>
 David Rosen, Argot Partners
 +1 (212) 600-1902
 media@shasqi.com
