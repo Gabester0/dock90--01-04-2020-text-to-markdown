@@ -14,4 +14,4 @@ image:
 
 > _The work marks a milestone in bioorthogonal chemistry, which relies on reactions that can run inside living organisms without disrupting biochemical processes. So-called click reactions have become a mainstay of this approach because they occur exclusively between two synthetic molecules, rapidly and irreversibly clicking them together. Researchers [already use](https://cen.acs.org/articles/95/i8/Pinning-bulls-eye-cancer-cells.html) bioorthogonal chemistry to tag biomolecules with imaging agents, such as fluorescent probes; and it has helped to manufacture targeted therapeutics, such as [antibody-drug conjugates](https://cen.acs.org/biological-chemistry/cancer/new-generation-antibody-drug-conjugates/98/i14), that have subsequently entered clinical trials._
 
-Read the full article on **[the C&EN website](https://cen.acs.org/pharmaceuticals/Click-chemistry-sees-first-use/98/web/2020/10)**
+[Read the full article on **the C&EN website**](https://cen.acs.org/pharmaceuticals/Click-chemistry-sees-first-use/98/web/2020/10)
