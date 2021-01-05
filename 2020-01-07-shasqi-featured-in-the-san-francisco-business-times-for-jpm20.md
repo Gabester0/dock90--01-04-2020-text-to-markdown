@@ -8,7 +8,7 @@ category:
 image:
 ---
 
-We are proud to share an article by Ron Leuty, Staff Reporter for the San Francisco Business Times, about Shasqi and our attendance at the JPMorgan 2020 conference
+We are proud to share an article by [Ron Leuty](https://www.bizjournals.com/sanfrancisco/bio/3611/Ron+Leuty), Staff Reporter for the San Francisco Business Times, about Shasqi and our attendance at the JPMorgan 2020 conference
 
 <br>
 
